@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+F:\boasboct2022\.metadata\.plugins\org.eclipse.jdt.core
+1911733954.index
