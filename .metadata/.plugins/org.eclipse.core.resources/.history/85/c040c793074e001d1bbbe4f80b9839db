@@ -1,0 +1,9 @@
+package com.boa.customerapi.models;
+
+import javax.persistence.Entity;
+
+@Entity
+@Table(name="Address")
+public class Address {
+
+}

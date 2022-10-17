@@ -1,0 +1,12 @@
+package com.boa.customerapi.models;
+
+import javax.persistence.Embeddable;
+
+@Embeddable
+@Data
+public class FullName {
+
+	private String firstName;
+	private String lastName;
+	private String middleName; 
+}

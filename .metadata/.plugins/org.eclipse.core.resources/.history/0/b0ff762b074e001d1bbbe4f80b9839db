@@ -1,0 +1,24 @@
+package com.boa.customerapi.models;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+import lombok.experimental.SuperBuilder;
+
+@Entity
+@Table(name="Customer")
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@SuperBuilder
+public class Customer {
+	
+	private long customerId;
+	private String email;
+	private String password;
+	private FullName name;
+
+}

@@ -1,0 +1,16 @@
+package com.boa.customerapi.models;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="Address")
+public class Address {
+	@Id
+	private long addressId;
+	private String doorNo;
+	private String streetName;
+	private String city;
+	private long pincode;
+
+}

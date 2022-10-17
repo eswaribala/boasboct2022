@@ -1,0 +1,11 @@
+package com.boa.customerapi.models;
+
+import javax.persistence.EnumType;
+import javax.persistence.Enumerated;
+
+public class Individual extends Customer{
+
+	@Enumerated(EnumType.STRING)
+	private Gender gender;
+	private LocalDate dob;
+}

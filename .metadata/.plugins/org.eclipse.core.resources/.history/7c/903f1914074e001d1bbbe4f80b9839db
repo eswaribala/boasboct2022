@@ -1,0 +1,14 @@
+package com.boa.customerapi.models;
+
+import javax.persistence.Entity;
+
+@Entity
+@Table(name="customer")
+public class Customer {
+	
+	private long customerId;
+	private String email;
+	private String password;
+	private FullName name;
+
+}

@@ -1,0 +1,10 @@
+package com.boa.customerapi.models;
+
+public class Customer {
+	
+	private long customerId;
+	private String email;
+	private String password;
+	private FullName name;
+
+}
