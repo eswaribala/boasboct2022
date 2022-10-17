@@ -1,0 +1,43 @@
+package com.boa.customerapi.services;
+
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+import com.boa.customerapi.models.Individual;
+import com.boa.customerapi.repositories.IndividualRepo;
+@Service
+public class IndividualServiceImpl implements IndividualService{
+    @Autowired 
+	private IndividualRepo individualRepo;
+	@Override
+	public Individual addIndividual(Individual individual) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Individual> getAllIndividuals() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Individual updateIndividual(long customerId, long mobilNo, String email) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public boolean deleteIndividualById(long customerId) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public Individual getAllIndividualById(long customerId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

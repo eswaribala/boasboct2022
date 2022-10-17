@@ -1,0 +1,49 @@
+package com.boa.customerapi.services;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.boa.customerapi.models.Individual;
+import com.boa.customerapi.repositories.IndividualRepo;
+@Service
+public class IndividualServiceImpl implements IndividualService{
+    @Autowired 
+	private IndividualRepo individualRepo;
+	@Override
+	public Individual addIndividual(Individual individual) {
+		// TODO Auto-generated method stub
+		return this.individualRepo.save(individual)
+	}
+
+	@Override
+	public List<Individual> getAllIndividuals() {
+		// TODO Auto-generated method stub
+		return this.getAllIndividuals();
+	}
+
+	@Override
+	public Individual updateIndividual(long customerId, long mobilNo, String email) {
+		// TODO Auto-generated method stub
+		Individual individualObj=this.individualRepo.findById(customerId).orElse(null);
+		if(individualObj!=null) {
+			individualObj.setEmail(email);
+			individualObj.se
+		}
+		return null;
+	}
+
+	@Override
+	public boolean deleteIndividualById(long customerId) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public Individual getIndividualById(long customerId) {
+		// TODO Auto-generated method stub
+		return this.individualRepo.findById(customerId).orElse(null);
+	}
+
+}

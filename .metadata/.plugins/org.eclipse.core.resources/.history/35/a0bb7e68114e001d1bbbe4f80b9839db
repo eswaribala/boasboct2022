@@ -10,7 +10,7 @@ public interface IndividualService {
 	
 	Individual addIndividual(Individual individual);
 	List<Individual> getAllIndividuals();
-	Individual updateIndividual(long customerId, String password, String email);
+	Individual updateIndividual(long customerId, long mobilNo, String email);
 	boolean deleteIndividualById(long customerId);
 	Individual getIndividualById(long customerId);
 	
