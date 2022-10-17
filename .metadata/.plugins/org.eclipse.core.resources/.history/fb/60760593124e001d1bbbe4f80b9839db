@@ -10,7 +10,7 @@ public interface CorporateService {
 	
 		Corporate addCorporate(Corporate Corporate);
 		List<Corporate> getAllCorporates();
-		Corporate updateCorporate(long customerId,String email,String password);
+		Corporate updateCorporate(long customerId, long mobilNo, String email,String password);
 		boolean deleteCorporateById(long customerId);
-		Corporate getCorporateById(long customerId);
+		Corporate getAllCorporateById(long customerId);
 }

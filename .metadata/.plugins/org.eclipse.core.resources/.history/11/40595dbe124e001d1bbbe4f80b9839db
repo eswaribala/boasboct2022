@@ -1,0 +1,39 @@
+package com.boa.customerapi.services;
+
+import java.util.List;
+
+import com.boa.customerapi.models.Corporate;
+
+public class CorporateServiceImpl implements CorporateService {
+
+	@Override
+	public Corporate addCorporate(Corporate Corporate) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Corporate> getAllCorporates() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Corporate updateCorporate(long customerId, String email, String password) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public boolean deleteCorporateById(long customerId) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public Corporate getAllCorporateById(long customerId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

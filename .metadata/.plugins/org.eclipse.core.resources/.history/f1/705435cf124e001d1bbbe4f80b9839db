@@ -1,0 +1,63 @@
+package com.boa.customerapi.services;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.boa.customerapi.models.Corporate;
+import com.boa.customerapi.models.Corporate;
+import com.boa.customerapi.repositories.CorporateRepo;
+
+public class CorporateServiceImpl implements CorporateService {
+
+	 @Autowired 
+		private CorporateRepo CorporateRepo;
+		@Override
+		public Corporate addCorporate(Corporate Corporate) {
+			// TODO Auto-generated method stub
+			return this.CorporateRepo.save(Corporate);
+		}
+
+		@Override
+		public List<Corporate> getAllCorporates() {
+			// TODO Auto-generated method stub
+			return this.getAllCorporates();
+		}
+
+		@Override
+		public Corporate updateCorporate(long customerId, String password, String email) {
+			// TODO Auto-generated method stub
+			Corporate CorporateObj=this.CorporateRepo.findById(customerId).orElse(null);
+			if(CorporateObj!=null) {
+				CorporateObj.setEmail(email);
+				CorporateObj.setPassword(password);
+	            return this.CorporateRepo.save(CorporateObj);
+	        }
+			else
+				return null;
+			
+		}
+
+		@Override
+		public boolean deleteCorporateById(long customerId) {
+			// TODO Auto-generated method stub
+			boolean status=false;
+			Corporate CorporateObj=this.CorporateRepo.findById(customerId).orElse(null);
+			if(CorporateObj!=null)
+			{
+				this.CorporateRepo.deleteById(customerId);
+			}
+			CorporateObj=this.CorporateRepo.findById(customerId).orElse(null);
+			if(CorporateObj==null)
+			{
+				status=true;
+			}
+			return status;
+		}
+
+		@Override
+		public Corporate getCorporateById(long customerId) {
+			// TODO Auto-generated method stub
+			return this.CorporateRepo.findById(customerId).orElse(null);
+		}
+}
