@@ -1,0 +1,9 @@
+package com.boa.customerapi.services;
+
+public interface IndividualService {
+
+	//Customer CRUD
+	
+	Individual addIndividual(Individual individual)
+	
+}

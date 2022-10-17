@@ -33,7 +33,8 @@ public class Address {
 	@Column(name="City",nullable = false, length = 150)
 	private String city;
 	@Column(name="Pincode")
-	private long pincode;	
+	private long pincode;
+	
 
     @ManyToOne(cascade = CascadeType.MERGE,fetch = FetchType.LAZY)
 	@JoinColumn(foreignKey = @ForeignKey(name = "Customer_Id"), name = "Customer_Id")
