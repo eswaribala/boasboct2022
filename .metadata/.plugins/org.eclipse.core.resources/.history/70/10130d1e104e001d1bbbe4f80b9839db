@@ -6,10 +6,11 @@ import com.boa.customerapi.models.Address;
 
 public interface AddressService {
 
-	//Address CRUD	
+	//Address CRUD
+	
 			Address addAddress(Address Address);
 			List<Address> getAllAddresss();
 			Address updateAddress(Address address);
-			boolean deleteAddressById(long addressId);
-			Address getAllAddressById(long addressId);
+			boolean deleteAddressById(long customerId);
+			Address getAllAddressById(long customerId);
 }

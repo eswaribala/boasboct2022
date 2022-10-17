@@ -1,0 +1,16 @@
+package com.boa.customerapi.services;
+
+import java.util.List;
+
+import com.boa.customerapi.models.Corporate;
+
+public interface AddressService {
+
+	//Address CRUD
+	
+			Corporate addCorporate(Corporate Corporate);
+			List<Corporate> getAllCorporates();
+			Corporate updateCorporate(long customerId, long mobilNo, String email,String password);
+			boolean deleteCorporateById(long customerId);
+			Corporate getAllCorporateById(long customerId);
+}
