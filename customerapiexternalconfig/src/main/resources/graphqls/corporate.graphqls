@@ -1,0 +1,16 @@
+
+type Corporate implements Customer{
+	customerId: ID!
+	name: FullName
+	email: String
+	password: String	
+	companyType:String
+}
+
+
+extend type Query {
+	findAllCorporates:[Corporate]
+	findCorporate(customerId: ID):Corporate
+}
+
+
