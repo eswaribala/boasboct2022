@@ -1,0 +1,10 @@
+package com.boa.customerapi.queryresolvers;
+
+import com.coxautodev.graphql.tools.GraphQLQueryResolver;
+
+public class IndividualQueryResolver implements GraphQLQueryResolver{
+	
+	
+	private IndividualService individualService;
+
+}

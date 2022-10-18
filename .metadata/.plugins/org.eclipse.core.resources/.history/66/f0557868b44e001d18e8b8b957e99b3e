@@ -1,0 +1,7 @@
+package com.boa.customerapi.queryresolvers;
+
+import graphql.servlet.GraphQLQueryInvoker;
+
+public class IndividualQueryResolver extends GraphQLQueryResolver{
+
+}
