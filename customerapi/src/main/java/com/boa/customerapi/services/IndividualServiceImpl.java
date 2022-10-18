@@ -20,7 +20,7 @@ public class IndividualServiceImpl implements IndividualService{
 	@Override
 	public List<Individual> getAllIndividuals() {
 		// TODO Auto-generated method stub
-		return this.getAllIndividuals();
+		return this.individualRepo.findAll();
 	}
 
 	@Override

@@ -716,3 +716,6 @@
 2022-10-17 17:28:47,844 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2022-10-17 17:28:47,846 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-10-17 17:28:47,846 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-17 17:58:47,059 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped Server@3de79a59{STOPPING}[10.0.5,sto=0]
+2022-10-17 17:58:47,069 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@75aef172{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2022-10-17 17:58:47,086 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@73d12e56{/help,null,STOPPED}

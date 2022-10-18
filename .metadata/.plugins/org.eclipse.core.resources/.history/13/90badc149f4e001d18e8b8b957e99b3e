@@ -1,0 +1,6 @@
+package com.boa.customerapi.controllers;
+
+@RestController
+public class CorporateController {
+
+}
