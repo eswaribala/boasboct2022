@@ -1547,3 +1547,15 @@ org.eclipse.core.runtime.CoreException: Launch configuration CustomerapiApplicat
 2022-10-18 17:38:03,810 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped Server@21180055{STOPPING}[10.0.5,sto=0]
 2022-10-18 17:38:03,842 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@1a417d0b{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
 2022-10-18 17:38:04,014 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@6c94c008{/help,null,STOPPED}
+2022-10-19 09:58:50,424 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2022-10-19 10:35:58,967 [Worker-30: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.boa:customerapiexternalconfig:0.0.1-SNAPSHOT @ F:\boasboct2022\customerapiexternalconfig\pom.xml.
+2022-10-19 10:36:10,009 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-19 10:36:10,018 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-19 10:36:10,088 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-10-19 10:36:10,095 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-19 10:36:10,095 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources
+2022-10-19 10:36:17,711 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-19 10:36:17,717 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-19 10:36:17,722 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-10-19 10:36:17,762 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-19 10:36:17,762 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources

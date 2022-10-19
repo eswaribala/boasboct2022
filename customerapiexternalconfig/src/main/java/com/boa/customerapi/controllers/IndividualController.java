@@ -3,6 +3,8 @@ package com.boa.customerapi.controllers;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.cloud.context.config.annotation.RefreshScope;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
@@ -19,12 +21,18 @@ import com.boa.customerapi.models.Individual;
 import com.boa.customerapi.services.IndividualService;
 import com.boa.customerapi.vos.ResponseWrapper;
 
+import lombok.extern.slf4j.Slf4j;
+
 @RestController
 @RequestMapping("/individuals")
+@RefreshScope
+@Slf4j
 public class IndividualController {
     @Autowired 
 	private IndividualService individualService;
-    
+    //notification service
+    @Value("${message}")
+    private String message;
     @PostMapping({"/v1.0/"})
     public ResponseEntity<ResponseWrapper> addIndividual(@RequestBody Individual individual){
     	
@@ -41,6 +49,7 @@ public class IndividualController {
     }
     @GetMapping({"/v1.0/"})
     public List<Individual> getIndividuals(){
+    	log.info(message);
     	
     	return this.individualService.getAllIndividuals();
     }
