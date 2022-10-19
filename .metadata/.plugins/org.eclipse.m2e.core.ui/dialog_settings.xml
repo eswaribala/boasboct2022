@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="F:\boasboct2022\configserver"/>
 			<item value="F:\boasboct2022\customerapi"/>
 		</list>
 		<list key="projectNameTemplate">

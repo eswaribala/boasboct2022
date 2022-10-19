@@ -1070,3 +1070,480 @@
 2022-10-18 12:31:27,779 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2022-10-18 12:31:27,782 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-10-18 12:31:27,784 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 12:33:06,663 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:33:06,671 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 12:33:06,671 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 12:33:06,674 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:33:06,674 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 12:33:22,570 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:33:22,570 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 12:33:22,571 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 12:33:22,580 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:33:22,580 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 12:33:54,377 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:33:54,378 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 12:33:54,378 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 12:33:54,381 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:33:54,382 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 12:35:23,597 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:35:23,597 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 12:35:23,597 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 12:35:23,601 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:35:23,601 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 12:36:19,763 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:36:19,763 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 12:36:19,763 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 12:36:19,767 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:36:19,767 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 12:36:42,173 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:36:42,173 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 12:36:42,173 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 12:36:42,179 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:36:42,179 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 12:37:24,186 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:37:24,186 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 12:37:24,186 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 12:37:24,192 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:37:24,192 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 12:37:47,262 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:37:47,263 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 12:37:47,263 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 12:37:47,268 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:37:47,268 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 12:42:25,489 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:42:25,490 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 12:42:25,491 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 12:42:25,494 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:42:25,494 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 12:42:52,013 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:42:52,016 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 12:42:52,018 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-18 12:42:52,020 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:42:52,020 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 12:43:04,770 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:43:04,771 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 12:43:04,775 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-18 12:43:04,778 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:43:04,778 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 12:43:11,622 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:43:11,623 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 12:43:11,626 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-18 12:43:11,628 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:43:11,628 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 12:43:16,676 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:43:16,677 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 12:43:16,680 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-18 12:43:16,683 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:43:16,684 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 12:43:28,737 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:43:28,738 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 12:43:28,740 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-18 12:43:28,744 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:43:28,744 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 12:43:44,494 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:43:44,496 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 12:43:44,499 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-18 12:43:44,501 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:43:44,501 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 12:43:47,447 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:43:47,449 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 12:43:47,451 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-18 12:43:47,454 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:43:47,454 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 12:43:58,061 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:43:58,062 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 12:43:58,064 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-18 12:43:58,066 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:43:58,066 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 12:44:03,207 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:44:03,209 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 12:44:03,212 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-18 12:44:03,214 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:44:03,214 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 12:44:17,576 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:44:17,577 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 12:44:17,580 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-18 12:44:17,582 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:44:17,582 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 12:44:26,363 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:44:26,365 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 12:44:26,367 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-18 12:44:26,370 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:44:26,370 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 12:45:19,171 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:45:19,173 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 12:45:19,177 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-18 12:45:19,180 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:45:19,180 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 12:45:57,230 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:45:57,232 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 12:45:57,234 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-18 12:45:57,236 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:45:57,237 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 12:46:05,248 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:46:05,249 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 12:46:05,252 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-18 12:46:05,256 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:46:05,256 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 12:46:10,055 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:46:10,056 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 12:46:10,059 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-18 12:46:10,062 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:46:10,062 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 12:46:25,770 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:46:25,770 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 12:46:25,772 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-18 12:46:25,776 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:46:25,777 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 12:46:40,654 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:46:40,655 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 12:46:40,657 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-18 12:46:40,659 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:46:40,659 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 12:46:45,375 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:46:45,376 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 12:46:45,379 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-18 12:46:45,382 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:46:45,382 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 12:46:58,735 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:46:58,737 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 12:46:58,740 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-18 12:46:58,743 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:46:58,743 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 12:47:12,190 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:47:12,191 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 12:47:12,193 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-18 12:47:12,195 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:47:12,195 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 12:47:21,065 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:47:21,067 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 12:47:21,069 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-18 12:47:21,073 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 12:47:21,073 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 12:47:48,702 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-10-18 12:47:57,973 [Worker-67: Launching customerapi (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\boasboct2022\customerapi
+2022-10-18 12:47:57,973 [Worker-67: Launching customerapi (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean install
+2022-10-18 13:26:55,771 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 13:26:55,772 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 13:26:55,772 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 13:26:55,776 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 13:26:55,776 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 13:28:09,919 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 13:28:09,919 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 13:28:09,920 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 13:28:09,926 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 13:28:09,926 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 15:36:50,909 [Worker-97: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.boa:configserver:0.0.1-SNAPSHOT @ F:\boasboct2022\configserver\pom.xml.
+2022-10-18 15:36:54,589 [Worker-97: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /configserver/src/main/java
+2022-10-18 15:36:54,590 [Worker-97: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /configserver/src/main/resources
+2022-10-18 15:36:54,596 [Worker-97: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /configserver/src/main/resources
+2022-10-18 15:36:54,602 [Worker-97: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /configserver/src/test/java
+2022-10-18 15:36:57,431 [Worker-97: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 9 sec
+2022-10-18 15:37:00,330 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 15:37:00,330 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 15:37:00,332 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 15:37:00,335 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 15:37:00,335 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\configserver\src\test\resources
+2022-10-18 15:37:32,762 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 15:37:32,762 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 15:37:32,764 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 15:37:32,765 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 15:37:32,765 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\configserver\src\test\resources
+2022-10-18 15:38:02,436 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 15:38:02,436 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 15:38:02,441 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 15:38:02,443 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 15:38:02,443 [Worker-104: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\configserver\src\test\resources
+2022-10-18 15:38:36,935 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 15:38:36,935 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 15:38:36,935 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 15:38:36,937 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 15:38:36,937 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\configserver\src\test\resources
+2022-10-18 15:38:42,543 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-10-18 15:38:51,982 [Worker-102: Launching configserver] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\boasboct2022\configserver
+2022-10-18 15:38:51,983 [Worker-102: Launching configserver] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean install
+2022-10-18 15:58:50,364 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-10-18 15:58:59,698 [Worker-107: Launching configserver (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\boasboct2022\configserver
+2022-10-18 15:58:59,698 [Worker-107: Launching configserver (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean install
+2022-10-18 16:06:12,306 [Worker-116: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.boa:customerapi:0.0.1-SNAPSHOT @ F:\boasboct2022\customerapi\pom.xml.
+2022-10-18 16:06:14,795 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:06:14,795 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:06:14,795 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:06:14,797 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:06:14,798 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 16:06:26,243 [Worker-112: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.boa:customerapi:0.0.1-SNAPSHOT @ F:\boasboct2022\customerapi\pom.xml.
+2022-10-18 16:06:28,144 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:06:28,147 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 16:06:28,167 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-18 16:06:28,170 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:06:28,171 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 16:07:13,670 [Worker-116: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.boa:customerapi:0.0.1-SNAPSHOT @ F:\boasboct2022\customerapi\pom.xml.
+2022-10-18 16:07:15,875 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:07:15,876 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 16:07:15,878 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-18 16:07:15,880 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:07:15,881 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 16:07:20,310 [Worker-119: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.boa:customerapi:0.0.1-SNAPSHOT @ F:\boasboct2022\customerapi\pom.xml.
+2022-10-18 16:07:22,603 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:07:22,603 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:07:22,603 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:07:22,606 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:07:22,606 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 16:07:45,539 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:07:45,539 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:07:45,539 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:07:45,542 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:07:45,542 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapi\src\test\resources
+2022-10-18 16:07:46,250 [Worker-119: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.boa:customerapi:0.0.1-SNAPSHOT @ F:\boasboct2022\customerapiexternalconfig\pom.xml.
+2022-10-18 16:07:48,029 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:07:48,029 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 16:07:48,030 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-18 16:07:48,034 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:07:48,035 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources
+2022-10-18 16:07:50,480 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:07:50,480 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 16:07:50,483 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-18 16:07:50,491 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:07:50,491 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources
+2022-10-18 16:07:56,108 [Worker-118: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration CustomerapiApplication references closed project customerapi
+org.eclipse.core.runtime.CoreException: Launch configuration CustomerapiApplication references closed project customerapi
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1843)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1715)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:59)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:46)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:523)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:401)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:427)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:130)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:824)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:991)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-10-18 16:07:56,132 [Worker-118: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration CustomerapiApplication references closed project customerapi
+org.eclipse.core.runtime.CoreException: Launch configuration CustomerapiApplication references closed project customerapi
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1843)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1715)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:59)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:46)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:523)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:402)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:427)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:130)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:824)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:991)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-10-18 16:07:56,179 [Worker-118: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration CustomerapiApplication references closed project customerapi
+org.eclipse.core.runtime.CoreException: Launch configuration CustomerapiApplication references closed project customerapi
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1843)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1715)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:59)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:46)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2128)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:376)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:403)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:427)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:130)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:824)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:991)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-10-18 16:08:19,789 [Worker-116: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.boa:customerapiexternalconfig:0.0.1-SNAPSHOT @ F:\boasboct2022\customerapiexternalconfig\pom.xml.
+2022-10-18 16:08:21,475 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:08:21,475 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:08:21,476 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:08:21,477 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:08:21,477 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources
+2022-10-18 16:08:32,862 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:08:32,864 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 16:08:32,866 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-18 16:08:32,875 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:08:32,875 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources
+2022-10-18 16:08:36,275 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:08:36,276 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 16:08:36,278 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-18 16:08:36,280 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:08:36,281 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources
+2022-10-18 16:08:42,214 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:08:42,215 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 16:08:42,218 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-18 16:08:42,220 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:08:42,220 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources
+2022-10-18 16:09:07,316 [Worker-112: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.boa:customerapiexternalconfig:0.0.1-SNAPSHOT @ F:\boasboct2022\customerapiexternalconfig\pom.xml.
+2022-10-18 16:09:08,675 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:09:08,675 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:09:08,675 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:09:08,677 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:09:08,677 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources
+2022-10-18 16:09:19,548 [Worker-118: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.boa:customerapiexternalconfig:0.0.1-SNAPSHOT @ F:\boasboct2022\customerapiexternalconfig\pom.xml.
+2022-10-18 16:09:20,929 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:09:20,929 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:09:20,929 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:09:20,931 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:09:20,932 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources
+2022-10-18 16:09:54,608 [Worker-117: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.boa:customerapiexternalconfig:0.0.1-SNAPSHOT @ F:\boasboct2022\customerapiexternalconfig\pom.xml.
+2022-10-18 16:09:56,903 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:09:56,903 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:09:56,904 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:09:56,906 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:09:56,906 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources
+2022-10-18 16:09:59,540 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:09:59,541 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 16:09:59,544 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-18 16:09:59,554 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:09:59,554 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources
+2022-10-18 16:14:11,501 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:14:11,501 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 16:14:11,503 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:14:11,505 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:14:11,505 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources
+2022-10-18 16:32:12,949 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:32:12,950 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 16:32:12,953 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:32:12,955 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:32:12,955 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources
+2022-10-18 16:33:43,617 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:33:43,618 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:33:43,618 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 16:33:43,621 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:33:43,621 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources
+2022-10-18 16:34:00,159 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:34:00,159 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 16:34:00,159 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 16:34:00,163 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:34:00,163 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources
+2022-10-18 16:43:46,558 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:43:46,560 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 16:43:46,562 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-10-18 16:43:46,565 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:43:46,565 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources
+2022-10-18 16:43:55,495 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:43:55,496 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 16:43:55,498 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-10-18 16:43:55,500 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:43:55,500 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources
+2022-10-18 16:44:24,527 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:44:24,527 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 16:44:24,529 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-10-18 16:44:24,530 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:44:24,531 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources
+2022-10-18 16:44:37,509 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:44:37,510 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 16:44:37,511 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-10-18 16:44:37,514 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:44:37,514 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources
+2022-10-18 16:45:12,052 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:45:12,053 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 16:45:12,056 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-10-18 16:45:12,059 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:45:12,059 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources
+2022-10-18 16:45:17,467 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:45:17,468 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 16:45:17,469 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-10-18 16:45:17,472 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:45:17,472 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources
+2022-10-18 16:46:15,789 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:46:15,790 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 16:46:15,793 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-10-18 16:46:15,795 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:46:15,795 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources
+2022-10-18 16:46:20,041 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:46:20,042 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 16:46:20,044 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-10-18 16:46:20,047 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:46:20,048 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources
+2022-10-18 16:46:35,833 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:46:35,834 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 16:46:35,837 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-10-18 16:46:35,840 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:46:35,840 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources
+2022-10-18 16:46:40,862 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:46:40,863 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 16:46:40,865 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-10-18 16:46:40,867 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:46:40,868 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources
+2022-10-18 16:47:03,300 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:47:03,302 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 16:47:03,303 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-10-18 16:47:03,306 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:47:03,306 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources
+2022-10-18 16:47:49,184 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:47:49,185 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 16:47:49,187 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-10-18 16:47:49,190 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:47:49,191 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources
+2022-10-18 16:48:38,647 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:48:38,648 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 16:48:38,649 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-10-18 16:48:38,650 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:48:38,651 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources
+2022-10-18 16:49:02,063 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:49:02,064 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 16:49:02,065 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-10-18 16:49:02,067 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:49:02,067 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources
+2022-10-18 16:49:09,148 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:49:09,149 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 16:49:09,150 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-10-18 16:49:09,152 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:49:09,152 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources
+2022-10-18 16:49:13,876 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:49:13,877 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 16:49:13,879 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-10-18 16:49:13,880 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:49:13,880 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources
+2022-10-18 16:49:25,307 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:49:25,308 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 16:49:25,310 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-10-18 16:49:25,312 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:49:25,312 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources
+2022-10-18 16:49:34,882 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:49:34,883 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 16:49:34,886 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-10-18 16:49:34,888 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:49:34,888 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources
+2022-10-18 16:49:48,653 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:49:48,654 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 16:49:48,655 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-10-18 16:49:48,656 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:49:48,656 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources
+2022-10-18 16:49:54,370 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:49:54,371 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 16:49:54,373 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-10-18 16:49:54,376 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 16:49:54,376 [Worker-134: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\boasboct2022\customerapiexternalconfig\src\test\resources
+2022-10-18 16:53:08,652 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-10-18 16:53:21,668 [Worker-133: Launching customerapiexternalconfig] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\boasboct2022\customerapiexternalconfig
+2022-10-18 16:53:21,668 [Worker-133: Launching customerapiexternalconfig] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean install
+2022-10-18 17:38:03,810 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped Server@21180055{STOPPING}[10.0.5,sto=0]
+2022-10-18 17:38:03,842 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@1a417d0b{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2022-10-18 17:38:04,014 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@6c94c008{/help,null,STOPPED}
