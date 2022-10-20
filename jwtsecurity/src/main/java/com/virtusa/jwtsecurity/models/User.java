@@ -25,7 +25,7 @@ import lombok.NoArgsConstructor;
 
 import javax.persistence.JoinColumn;
 @Entity
-@Table(name="VS_USERS")
+@Table(name="BOA_USERS")
 @Data
 @AllArgsConstructor
 @NoArgsConstructor

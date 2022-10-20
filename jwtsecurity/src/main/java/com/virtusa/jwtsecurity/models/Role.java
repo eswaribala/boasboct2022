@@ -18,7 +18,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 @Entity
-@Table(name="VS_Roles")
+@Table(name="BOA_Roles")
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
