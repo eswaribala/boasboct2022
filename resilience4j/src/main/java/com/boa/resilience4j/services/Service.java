@@ -16,6 +16,8 @@ public class Service {
 
     @Value("${serviceUrl}")
     private String serviceUrl;
+    @Value("${alternativeServiceUrl}")
+    private String alternativeServiceUrl;
     @Autowired
     private RestTemplate restTemplate;
     
@@ -32,6 +34,6 @@ public class Service {
     }
 
     public String fallback(Exception e) {
-        return "fallback value";
+         return restTemplate.getForObject(alternativeServiceUrl, String.class);
     }
 }
