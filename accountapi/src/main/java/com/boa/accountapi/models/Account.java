@@ -19,6 +19,7 @@ public class Account {
 	private String openDate;
 	private float roi;
 	private long overDraftLimit;
+    private AccountType accountType;
 	private long customerId;
 	
 }
