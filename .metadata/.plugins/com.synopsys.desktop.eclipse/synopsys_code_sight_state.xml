@@ -32,27 +32,27 @@
    </void>
   </void>
  </object>
-<void class="com.synopsys.desktop.core.models.issues.PersistentState$Filter" method="getField">
- <string>filterType</string>
- <void method="set">
-  <object class="com.synopsys.desktop.core.models.issues.PersistentState$Filter" id="PersistentState$Filter0">
-   <void class="com.synopsys.desktop.core.models.issues.PersistentState$Filter" method="getField">
-    <string>filterValue</string>
-    <void method="set">
-     <object idref="PersistentState$Filter0"/>
-     <string>SingleFile</string>
-    </void>
-   </void>
-  </object>
-  <string>Source</string>
- </void>
-</void>
 <void class="com.synopsys.desktop.core.models.issues.PersistentState" id="Field0" method="getField">
  <string>filters</string>
  <void id="ArrayList0" method="get">
   <object idref="PersistentState0"/>
   <void method="add">
-   <object idref="PersistentState$Filter0"/>
+   <object class="com.synopsys.desktop.core.models.issues.PersistentState$Filter" id="PersistentState$Filter0">
+    <void class="com.synopsys.desktop.core.models.issues.PersistentState$Filter" method="getField">
+     <string>filterType</string>
+     <void method="set">
+      <object idref="PersistentState$Filter0"/>
+      <string>Source</string>
+     </void>
+    </void>
+    <void class="com.synopsys.desktop.core.models.issues.PersistentState$Filter" method="getField">
+     <string>filterValue</string>
+     <void method="set">
+      <object idref="PersistentState$Filter0"/>
+      <string>SingleFile</string>
+     </void>
+    </void>
+   </object>
   </void>
  </void>
 </void>

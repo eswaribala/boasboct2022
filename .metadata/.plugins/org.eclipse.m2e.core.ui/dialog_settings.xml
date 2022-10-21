@@ -2,6 +2,9 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="F:\boasboct2022\cloudoauth2apigateway"/>
+			<item value="F:\boasboct2022\resilience4j"/>
+			<item value="F:\boasboct2022\demo"/>
 			<item value="F:\boasboct2022\jwtsecurity"/>
 			<item value="F:\boasboct2022\apigateway"/>
 			<item value="F:\boasboct2022\eurekaserver"/>
