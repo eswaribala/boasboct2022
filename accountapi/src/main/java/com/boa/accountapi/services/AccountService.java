@@ -2,6 +2,8 @@ package com.boa.accountapi.services;
 
 import java.util.List;
 
+import org.springframework.messaging.handler.annotation.Payload;
+
 import com.boa.accountapi.models.Account;
 
 
@@ -12,5 +14,5 @@ public interface AccountService {
 	Account updateAccount(long accountNo, float roi, long odLimit);
 	boolean deleteAccountById(long accountNo);
 	Account getAccountById(long accountNo);
-
+    public void accountListener(@Payload Account account);
 }

@@ -3,12 +3,18 @@ package com.boa.accountapi.services;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.cloud.stream.annotation.StreamListener;
+import org.springframework.messaging.handler.annotation.Payload;
 import org.springframework.stereotype.Service;
 
+import com.boa.accountapi.facades.AccountChannel;
 import com.boa.accountapi.models.Account;
 import com.boa.accountapi.repositories.AccountRepo;
 
+import lombok.extern.slf4j.Slf4j;
+
 @Service
+@Slf4j
 public class AccountServiceImpl implements AccountService{
 
 	 @Autowired 
@@ -60,6 +66,14 @@ public class AccountServiceImpl implements AccountService{
 		public Account getAccountById(long customerId) {
 			// TODO Auto-generated method stub
 			return this.accountRepo.findById(customerId).orElse(null);
+		}
+
+		@Override
+		@StreamListener(target = AccountChannel.channelName)
+		public void accountListener(@Payload Account account) {
+			// TODO Auto-generated method stub
+			log.info("invoked.....");   
+			 log.info("Received Account details: {}",account);
 		}
 
 }
