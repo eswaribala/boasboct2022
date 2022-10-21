@@ -16,6 +16,7 @@
 	<properties>
 		<java.version>11</java.version>
 	<spring-cloud.version>Hoxton.SR6</spring-cloud.version>
+	
 	</properties>
 	<dependencies>
 		<dependency>
@@ -123,7 +124,7 @@
 		    <groupId>org.springframework.cloud</groupId>
 		    <artifactId>spring-cloud-starter-bus-kafka</artifactId>
 		</dependency>
-	
+		
 	</dependencies>
 	<dependencyManagement>
 		<dependencies>
@@ -153,5 +154,6 @@
 			</plugin>
 		</plugins>
 	</build>
+
 
 </project>

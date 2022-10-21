@@ -74,6 +74,8 @@ public class AccountServiceImpl implements AccountService{
 			// TODO Auto-generated method stub
 			log.info("invoked.....");   
 			 log.info("Received Account details: {}",account);
+			 this.addAccount(account);
+			 
 		}
 
 }
