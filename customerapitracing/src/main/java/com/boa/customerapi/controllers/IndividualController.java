@@ -23,12 +23,21 @@ import com.boa.customerapi.models.Individual;
 import com.boa.customerapi.services.IndividualService;
 import com.boa.customerapi.vos.ResponseWrapper;
 
+import io.opentracing.Span;
+import io.opentracing.Tracer;
+import io.opentracing.tag.Tags;
+import io.opentracing.util.GlobalTracer;
+
 @RestController
 @RequestMapping("/individuals")
 public class IndividualController {
     @Autowired 
 	private IndividualService individualService;
     private static final Logger LOGGER = LogManager.getLogger(IndividualController.class);
+    @Autowired
+    private Tracer tracer;
+    
+    private HttpStatus httpStatus;
 
     @PostMapping({"/v1.0/"})
     public ResponseEntity<ResponseWrapper> addIndividual(@RequestBody Individual individual){
@@ -54,7 +63,29 @@ public class IndividualController {
         LOGGER.debug("Debug level log message");
         LOGGER.error("Error level log message");
 
-    	return individuals;
+
+
+        Tracer tracer = GlobalTracer.get();
+        Tracer.SpanBuilder spanBuilder = tracer.buildSpan("CustomerSpan")
+                .withTag(Tags.SPAN_KIND.getKey(), Tags.SPAN_KIND_SERVER);
+         
+        Span span1 = spanBuilder.start();
+        Tags.COMPONENT.set(span1, "IndividualAController");
+        span1.setTag("testtag", "test");
+        span1.finish();
+        Span span = tracer.buildSpan("accessing customers").start();
+        
+      
+        if (individuals.size()>0) {
+            httpStatus = HttpStatus.CREATED;
+            span.setTag("http.status_code", 201);
+        } else {
+            span.setTag("http.status_code", 403);
+        }
+        span.finish();
+
+		return individuals;
+
     }
     
     @PutMapping({"/v1.0/{customerId}"})
