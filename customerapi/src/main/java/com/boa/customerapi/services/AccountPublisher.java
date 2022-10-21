@@ -17,7 +17,7 @@ public class AccountPublisher {
 	private AccountChannel accountChannel;
     
     
-    boolean publishCreateAccountData(Account account) {
+    public boolean publishCreateAccountData(Account account) {
     	
     	MessageChannel messageChannel= accountChannel.outChannel();
     	LocalDate localDate=LocalDate.parse(account.getOpenDate());

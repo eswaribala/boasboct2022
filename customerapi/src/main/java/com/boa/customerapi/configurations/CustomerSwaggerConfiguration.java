@@ -114,6 +114,28 @@ public class CustomerSwaggerConfiguration {
                 .securitySchemes(Lists.newArrayList(apiKey()))
                 .useDefaultResponseMessages(false);
     }
+    
+    @Bean
+    public Docket api30Docket() {
+        return new Docket(DocumentationType.SWAGGER_2)
+        		.groupName("account-api-1.0")
+                .select()
+                .apis(RequestHandlerSelectors
+                        .basePackage("com.boa.customerapi"))
+                .paths(PathSelectors.regex("/accounts/v1.0.*"))
+                .build()
+                .apiInfo(getApiInfo())
+                .forCodeGeneration(true)
+                .genericModelSubstitutes(ResponseEntity.class)
+                .ignoredParameterTypes(Pageable.class)
+                .ignoredParameterTypes(java.sql.Date.class)
+                .directModelSubstitute(java.time.LocalDate.class, java.sql.Date.class)
+                .directModelSubstitute(java.time.ZonedDateTime.class, Date.class)
+                .directModelSubstitute(java.time.LocalDateTime.class, Date.class)
+                .securityContexts(Lists.newArrayList(securityContext()))
+                .securitySchemes(Lists.newArrayList(apiKey()))
+                .useDefaultResponseMessages(false);
+    }
     private ApiInfo getApiInfo() {
         return new ApiInfo(
                 "Customer API",
