@@ -1,6 +1,10 @@
 package com.boa.customerapi.controllers;
 
+import java.time.LocalDate;
 import java.util.List;
+
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -24,7 +28,8 @@ import com.boa.customerapi.vos.ResponseWrapper;
 public class IndividualController {
     @Autowired 
 	private IndividualService individualService;
-    
+    private static final Logger LOGGER = LogManager.getLogger(IndividualController.class);
+
     @PostMapping({"/v1.0/"})
     public ResponseEntity<ResponseWrapper> addIndividual(@RequestBody Individual individual){
     	
@@ -42,7 +47,14 @@ public class IndividualController {
     @GetMapping({"/v1.0/"})
     public List<Individual> getIndividuals(){
     	
-    	return this.individualService.getAllIndividuals();
+    	List<Individual> individuals=this.individualService.getAllIndividuals();
+    	LOGGER.info(LocalDate.now()+"Fetching Data");
+    	for(Individual individual : individuals)
+    		LOGGER.info(individual);
+        LOGGER.debug("Debug level log message");
+        LOGGER.error("Error level log message");
+
+    	return individuals;
     }
     
     @PutMapping({"/v1.0/{customerId}"})
