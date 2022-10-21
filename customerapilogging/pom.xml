@@ -22,6 +22,13 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-actuator</artifactId>
+				 <exclusions>          
+                <exclusion>
+                    <groupId>org.springframework.boot</groupId>
+                    <artifactId>spring-boot-starter-logging</artifactId>
+                </exclusion>    
+        
+             </exclusions>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
@@ -30,6 +37,14 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
+				 <exclusions> 
+     
+                <exclusion>
+                    <groupId>org.springframework.boot</groupId>
+                    <artifactId>spring-boot-starter-logging</artifactId>
+                </exclusion>    
+        
+             </exclusions>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.data</groupId>
@@ -119,7 +134,30 @@
 			<version>4.7.1</version>
 			<scope>compile</scope>
 		</dependency>
-	   
+	    <!-- log4j2 -->
+	    <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-log4j2</artifactId>
+        </dependency>
+	    <!-- Elastic -->
+	    	 <dependency>
+               <groupId>org.appenders.log4j</groupId>
+               <artifactId>log4j2-elasticsearch-jest</artifactId>
+               <version>1.5.2</version>
+           </dependency>
+           <!-- https://mvnrepository.com/artifact/org.springframework/spring-webflux -->
+           <dependency>
+               <groupId>org.springframework</groupId>
+               <artifactId>spring-webflux</artifactId>
+
+           </dependency>
+           <!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-core -->
+           <dependency>
+               <groupId>com.fasterxml.jackson.core</groupId>
+               <artifactId>jackson-core</artifactId>
+               <version>2.13.3</version>
+           </dependency>
+	    
 		
 	</dependencies>
 	<dependencyManagement>
