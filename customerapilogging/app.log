@@ -1,0 +1,107 @@
+2022-10-21 15:48:38.538  INFO DESKTOP-55AGI0I --- [kground-preinit] o.h.v.i.u.Version                        : HV000001: Hibernate Validator 6.1.7.Final
+2022-10-21 15:48:38.655  INFO DESKTOP-55AGI0I --- [  restartedMain] c.b.c.CustomerapiApplicationLogging      : Starting CustomerapiApplicationLogging on DESKTOP-55AGI0I with PID 14288 (F:\boasboct2022\customerapilogging\target\classes started by Balasubramaniam in F:\boasboct2022\customerapilogging)
+2022-10-21 15:48:38.875  INFO DESKTOP-55AGI0I --- [  restartedMain] c.b.c.CustomerapiApplicationLogging      : No active profile set, falling back to default profiles: default
+2022-10-21 15:48:39.040  INFO DESKTOP-55AGI0I --- [  restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-10-21 15:48:39.042  INFO DESKTOP-55AGI0I --- [  restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-10-21 15:48:43.786  INFO DESKTOP-55AGI0I --- [  BatchNotifier] i.s.c.AbstractJestClient                 : Setting server pool to a list of 1 servers: [http://localhost:9200/]
+2022-10-21 15:48:43.789  INFO DESKTOP-55AGI0I --- [  BatchNotifier] i.s.c.JestClientFactory                  : Using multi thread/connection supporting pooling connection manager
+2022-10-21 15:48:43.805  INFO DESKTOP-55AGI0I --- [  restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-10-21 15:48:44.051  INFO DESKTOP-55AGI0I --- [  BatchNotifier] i.s.c.JestClientFactory                  : Using default GSON instance
+2022-10-21 15:48:44.052  INFO DESKTOP-55AGI0I --- [  BatchNotifier] i.s.c.JestClientFactory                  : Node Discovery disabled...
+2022-10-21 15:48:44.054  INFO DESKTOP-55AGI0I --- [  BatchNotifier] i.s.c.JestClientFactory                  : Idle connection reaping disabled...
+2022-10-21 15:48:44.433  INFO DESKTOP-55AGI0I --- [  restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 594ms. Found 3 JPA repository interfaces.
+2022-10-21 15:48:47.248  INFO DESKTOP-55AGI0I --- [  restartedMain] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 7070 (http)
+2022-10-21 15:48:47.283  INFO DESKTOP-55AGI0I --- [  restartedMain] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-7070"]
+2022-10-21 15:48:47.287  INFO DESKTOP-55AGI0I --- [  restartedMain] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2022-10-21 15:48:47.288  INFO DESKTOP-55AGI0I --- [  restartedMain] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2022-10-21 15:48:47.640  INFO DESKTOP-55AGI0I --- [  restartedMain] o.a.c.c.C.[.[.[/]                        : Initializing Spring embedded WebApplicationContext
+2022-10-21 15:48:47.643  INFO DESKTOP-55AGI0I --- [  restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 8599 ms
+2022-10-21 15:48:48.717  INFO DESKTOP-55AGI0I --- [  restartedMain] o.h.j.i.u.LogHelper                      : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-10-21 15:48:48.854  INFO DESKTOP-55AGI0I --- [  restartedMain] o.h.Version                              : HHH000412: Hibernate ORM core version 5.4.32.Final
+2022-10-21 15:48:49.313  INFO DESKTOP-55AGI0I --- [  restartedMain] o.h.a.c.Version                          : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-21 15:48:49.643  INFO DESKTOP-55AGI0I --- [  restartedMain] c.z.h.HikariDataSource                   : HikariPool-1 - Starting...
+2022-10-21 15:48:49.677  WARN DESKTOP-55AGI0I --- [  restartedMain] c.z.h.u.DriverDataSource                 : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-10-21 15:48:50.634  INFO DESKTOP-55AGI0I --- [  restartedMain] c.z.h.HikariDataSource                   : HikariPool-1 - Start completed.
+2022-10-21 15:48:50.691  INFO DESKTOP-55AGI0I --- [  restartedMain] o.h.d.Dialect                            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2022-10-21 15:48:52.745  INFO DESKTOP-55AGI0I --- [  restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-10-21 15:48:52.762  INFO DESKTOP-55AGI0I --- [  restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-10-21 15:48:56.580  INFO DESKTOP-55AGI0I --- [  restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-10-21 15:48:57.248  WARN DESKTOP-55AGI0I --- [  restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-10-21 15:48:58.710  INFO DESKTOP-55AGI0I --- [  restartedMain] o.s.b.a.e.w.EndpointLinksResolver        : Exposing 2 endpoint(s) beneath base path '/actuator'
+2022-10-21 15:48:59.277  INFO DESKTOP-55AGI0I --- [  restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+2022-10-21 15:48:59.972  INFO DESKTOP-55AGI0I --- [  restartedMain] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2022-10-21 15:49:01.305  INFO DESKTOP-55AGI0I --- [  restartedMain] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-7070"]
+2022-10-21 15:49:01.348  INFO DESKTOP-55AGI0I --- [  restartedMain] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 7070 (http) with context path ''
+2022-10-21 15:49:01.355  INFO DESKTOP-55AGI0I --- [  restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Documentation plugins bootstrapped
+2022-10-21 15:49:01.371  INFO DESKTOP-55AGI0I --- [  restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 5 custom documentation plugin(s)
+2022-10-21 15:49:01.456  INFO DESKTOP-55AGI0I --- [  restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-10-21 15:49:01.508  INFO DESKTOP-55AGI0I --- [  restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-10-21 15:49:01.859  INFO DESKTOP-55AGI0I --- [  restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-10-21 15:49:01.888  INFO DESKTOP-55AGI0I --- [  restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-10-21 15:49:01.971  INFO DESKTOP-55AGI0I --- [  restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-10-21 15:49:02.005  INFO DESKTOP-55AGI0I --- [  restartedMain] c.b.c.CustomerapiApplicationLogging      : Started CustomerapiApplicationLogging in 24.155 seconds (JVM running for 27.945)
+2022-10-21 15:49:10.889  INFO DESKTOP-55AGI0I --- [       Thread-6] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2022-10-21 15:49:10.912  INFO DESKTOP-55AGI0I --- [       Thread-6] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-10-21 15:49:10.918  INFO DESKTOP-55AGI0I --- [       Thread-6] c.z.h.HikariDataSource                   : HikariPool-1 - Shutdown initiated...
+2022-10-21 15:49:10.953  INFO DESKTOP-55AGI0I --- [       Thread-6] c.z.h.HikariDataSource                   : HikariPool-1 - Shutdown completed.
+2022-10-21 15:49:11.183 ERROR DESKTOP-55AGI0I --- [/O dispatcher 1] i.s.c.h.JestHttpClient                   : Exception occurred during async execution.
+org.apache.http.ConnectionClosedException: Connection closed unexpectedly
+	at org.apache.http.nio.protocol.HttpAsyncRequestExecutor.closed(HttpAsyncRequestExecutor.java:146)
+	at org.apache.http.impl.nio.client.InternalIODispatch.onClosed(InternalIODispatch.java:71)
+	at org.apache.http.impl.nio.client.InternalIODispatch.onClosed(InternalIODispatch.java:39)
+	at org.apache.http.impl.nio.reactor.AbstractIODispatch.disconnected(AbstractIODispatch.java:100)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.sessionClosed(BaseIOReactor.java:277)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.processClosedSessions(AbstractIOReactor.java:449)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.execute(AbstractIOReactor.java:283)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.execute(BaseIOReactor.java:104)
+	at org.apache.http.impl.nio.reactor.AbstractMultiworkerIOReactor$Worker.run(AbstractMultiworkerIOReactor.java:591)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2022-10-21 15:49:11.243  INFO DESKTOP-55AGI0I --- [  restartedMain] c.b.c.CustomerapiApplicationLogging      : Starting CustomerapiApplicationLogging on DESKTOP-55AGI0I with PID 14288 (F:\boasboct2022\customerapilogging\target\classes started by Balasubramaniam in F:\boasboct2022\customerapilogging)
+2022-10-21 15:49:11.245  INFO DESKTOP-55AGI0I --- [  restartedMain] c.b.c.CustomerapiApplicationLogging      : No active profile set, falling back to default profiles: default
+2022-10-21 15:49:12.177  INFO DESKTOP-55AGI0I --- [  BatchNotifier] i.s.c.AbstractJestClient                 : Setting server pool to a list of 1 servers: [http://localhost:9200/]
+2022-10-21 15:49:12.178  INFO DESKTOP-55AGI0I --- [  BatchNotifier] i.s.c.JestClientFactory                  : Using multi thread/connection supporting pooling connection manager
+2022-10-21 15:49:12.182  INFO DESKTOP-55AGI0I --- [  BatchNotifier] i.s.c.JestClientFactory                  : Using default GSON instance
+2022-10-21 15:49:12.184  INFO DESKTOP-55AGI0I --- [  BatchNotifier] i.s.c.JestClientFactory                  : Node Discovery disabled...
+2022-10-21 15:49:12.184  INFO DESKTOP-55AGI0I --- [  BatchNotifier] i.s.c.JestClientFactory                  : Idle connection reaping disabled...
+2022-10-21 15:49:13.150  INFO DESKTOP-55AGI0I --- [  restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-10-21 15:49:13.225  INFO DESKTOP-55AGI0I --- [  restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 74ms. Found 3 JPA repository interfaces.
+2022-10-21 15:49:14.215  INFO DESKTOP-55AGI0I --- [  restartedMain] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 7070 (http)
+2022-10-21 15:49:14.217  INFO DESKTOP-55AGI0I --- [  restartedMain] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-7070"]
+2022-10-21 15:49:14.219  INFO DESKTOP-55AGI0I --- [  restartedMain] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2022-10-21 15:49:14.220  INFO DESKTOP-55AGI0I --- [  restartedMain] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.46]
+2022-10-21 15:49:14.419  INFO DESKTOP-55AGI0I --- [  restartedMain] o.a.c.c.C.[.[.[/]                        : Initializing Spring embedded WebApplicationContext
+2022-10-21 15:49:14.420  INFO DESKTOP-55AGI0I --- [  restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3170 ms
+2022-10-21 15:49:14.842  INFO DESKTOP-55AGI0I --- [  restartedMain] o.h.j.i.u.LogHelper                      : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-10-21 15:49:14.860  INFO DESKTOP-55AGI0I --- [  restartedMain] c.z.h.HikariDataSource                   : HikariPool-2 - Starting...
+2022-10-21 15:49:14.861  WARN DESKTOP-55AGI0I --- [  restartedMain] c.z.h.u.DriverDataSource                 : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2022-10-21 15:49:14.935  INFO DESKTOP-55AGI0I --- [  restartedMain] c.z.h.HikariDataSource                   : HikariPool-2 - Start completed.
+2022-10-21 15:49:14.936  INFO DESKTOP-55AGI0I --- [  restartedMain] o.h.d.Dialect                            : HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2022-10-21 15:49:15.909  INFO DESKTOP-55AGI0I --- [  restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-10-21 15:49:15.910  INFO DESKTOP-55AGI0I --- [  restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-10-21 15:49:17.116  INFO DESKTOP-55AGI0I --- [  restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-10-21 15:49:17.435  WARN DESKTOP-55AGI0I --- [  restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-10-21 15:49:17.983  INFO DESKTOP-55AGI0I --- [  restartedMain] o.s.b.a.e.w.EndpointLinksResolver        : Exposing 2 endpoint(s) beneath base path '/actuator'
+2022-10-21 15:49:18.139  INFO DESKTOP-55AGI0I --- [  restartedMain] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+2022-10-21 15:49:18.390  INFO DESKTOP-55AGI0I --- [  restartedMain] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2022-10-21 15:49:18.703  INFO DESKTOP-55AGI0I --- [  restartedMain] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-7070"]
+2022-10-21 15:49:18.716  INFO DESKTOP-55AGI0I --- [  restartedMain] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 7070 (http) with context path ''
+2022-10-21 15:49:18.719  INFO DESKTOP-55AGI0I --- [  restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Documentation plugins bootstrapped
+2022-10-21 15:49:18.721  INFO DESKTOP-55AGI0I --- [  restartedMain] d.s.w.p.DocumentationPluginsBootstrapper : Found 5 custom documentation plugin(s)
+2022-10-21 15:49:18.758  INFO DESKTOP-55AGI0I --- [  restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-10-21 15:49:18.784  INFO DESKTOP-55AGI0I --- [  restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-10-21 15:49:18.865  INFO DESKTOP-55AGI0I --- [  restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-10-21 15:49:18.887  INFO DESKTOP-55AGI0I --- [  restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-10-21 15:49:18.972  INFO DESKTOP-55AGI0I --- [  restartedMain] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2022-10-21 15:49:18.997  INFO DESKTOP-55AGI0I --- [  restartedMain] c.b.c.CustomerapiApplicationLogging      : Started CustomerapiApplicationLogging in 7.92 seconds (JVM running for 44.936)
+2022-10-21 15:49:19.007  INFO DESKTOP-55AGI0I --- [  restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-10-21 16:27:52.358  INFO DESKTOP-55AGI0I --- [nio-7070-exec-1] o.a.c.c.C.[.[.[/]                        : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-10-21 16:27:52.359  INFO DESKTOP-55AGI0I --- [nio-7070-exec-1] o.s.w.s.DispatcherServlet                : Initializing Servlet 'dispatcherServlet'
+2022-10-21 16:27:52.407  INFO DESKTOP-55AGI0I --- [nio-7070-exec-1] o.s.w.s.DispatcherServlet                : Completed initialization in 47 ms
+2022-10-21 16:28:10.219  INFO DESKTOP-55AGI0I --- [nio-7070-exec-5] c.b.c.c.IndividualController             : 2022-10-21Fetching Data
+2022-10-21 16:28:10.219  INFO DESKTOP-55AGI0I --- [nio-7070-exec-5] c.b.c.c.IndividualController             : Individual(gender=FEMALE, dob=1970-12-02)
+2022-10-21 16:28:10.221  INFO DESKTOP-55AGI0I --- [nio-7070-exec-5] c.b.c.c.IndividualController             : Individual(gender=MALE, dob=1995-12-07)
+2022-10-21 16:28:10.222 ERROR DESKTOP-55AGI0I --- [nio-7070-exec-5] c.b.c.c.IndividualController             : Error level log message
+2022-10-21 16:29:40.549  INFO DESKTOP-55AGI0I --- [nio-7070-exec-7] c.b.c.c.IndividualController             : 2022-10-21Fetching Data
+2022-10-21 16:29:40.550  INFO DESKTOP-55AGI0I --- [nio-7070-exec-7] c.b.c.c.IndividualController             : Individual(gender=FEMALE, dob=1970-12-02)
+2022-10-21 16:29:40.550  INFO DESKTOP-55AGI0I --- [nio-7070-exec-7] c.b.c.c.IndividualController             : Individual(gender=MALE, dob=1995-12-07)
+2022-10-21 16:29:40.550 ERROR DESKTOP-55AGI0I --- [nio-7070-exec-7] c.b.c.c.IndividualController             : Error level log message
